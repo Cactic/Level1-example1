@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Picture Quiz</string>
+    <string name="Giraffe">Giraffe</string>
+    <string name="Correct">Correct!</string>
+    <string name="Incorrect">Incorrect, the correct answer is Giraffe!</string>
+    <string name="What_kind">What kind of animal is this?</string>
+    <string name="Confirm">Confirm</string>
+    <string name="Species">Species</string>
+</resources>
